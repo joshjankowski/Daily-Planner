@@ -48,17 +48,17 @@ button {
 
 .past {
   background-color: #c0ffb9;
-  color: white;
+  color: black;
 }
 
 .present {
-  background-color: #ff6961;
-  color: white;
+  background-color: #ebdfde;
+  color: black;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
@@ -89,8 +89,8 @@ textarea {
   background-color: #eeeeee;
 }
 
-p {
-  color: rgb(232, 20, 20);
+.lock {
+  color: rgb(19, 27, 20);
 }
 
 i:hover {
